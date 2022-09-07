@@ -1,1 +1,2 @@
-MINGW64_NT-10.0-17763
+#!/bin/bash
+0-hello_ubuntu
